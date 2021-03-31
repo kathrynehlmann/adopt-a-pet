@@ -1,5 +1,5 @@
 ## Adopt A Pet (or two!)
-A CRUD application using a REST api, built with React, allowing the user to create a new adoption listing for an animal (CREATE), view animals available for adoption (READ),update information about an adoptable animal (UPDATE), and adopt cats and dogs (DELETE).
+A CRUD application using a REST api, built with React, allowing the user to create a new adoption listing for an animal (CREATE), view animals available for adoption (READ),update information about an adoptable animal (UPDATE), and adopt cats and dogs by hovering over their image and clicking a house icon (DELETE).
 
 To see this app deployed please visit: https://adopt-a-pet-or-two.surge.sh/
 
